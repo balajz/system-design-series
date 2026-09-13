@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "aurthor-notes/nosql.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "nosql"
+            }
+          },
+          {
+            "id": "feefef4f63fdbbbc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "basic/nosql.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "nosql.excalidraw"
             }
           }
         ]
@@ -83,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "09e3edbf968c511d",
@@ -188,6 +201,13 @@
   },
   "active": "c4365ecb82b0b68b",
   "lastOpenFiles": [
+    "basic/nosql.excalidraw.md",
+    "aurthor-notes/nosql.md",
+    "basic/index.md",
+    "aurthor-notes",
+    "basic/index.excalidraw.md",
+    "basic/relational-database.md",
+    "basic/system-design.excalidraw.md",
     "http.excalidraw.md",
     "index.md",
     "index.excalidraw.md",
